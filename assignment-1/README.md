@@ -34,3 +34,6 @@ Make a social media post about your final application!
 ### Deliverables
 
 - Make a post on any social media platform about what you built!
+
+What we're building:
+![RAQA-Workflow.png](RAQA-Workflow.png)
